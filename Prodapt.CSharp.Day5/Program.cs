@@ -9,6 +9,7 @@
             Console.WriteLine($"Date Only:{today.ToShortDateString()}");
             Console.WriteLine($"Date time:{today.ToLongTimeString()}");
             Console.WriteLine($"Month Only:{today.ToLongDateString()}");
+            Console.WriteLine("virat");
         }
     }
 }
