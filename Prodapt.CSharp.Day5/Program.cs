@@ -10,6 +10,8 @@
             Console.WriteLine($"Date time:{today.ToLongTimeString()}");
             Console.WriteLine($"Month Only:{today.ToLongDateString()}");
             Console.WriteLine("virat");
+            Console.WriteLine("sachin");
+
         }
     }
 }
