@@ -25,7 +25,7 @@
             Console.WriteLine(string.IsNullOrWhiteSpace(pwd));
 
             string super = "set123";
-            Console.WriteLine(super.Substring(1, 4));
+            Console.WriteLine(super.Substring(1, 5));
 
 
             Console.WriteLine(stick.Trim());
