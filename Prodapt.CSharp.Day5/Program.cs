@@ -26,9 +26,11 @@
 
             string super = "set123";
             Console.WriteLine(super.Substring(1, 5));
+            Console.WriteLine(super.Contains("123"));
 
 
             Console.WriteLine(stick.Trim());
+
 
 
 
